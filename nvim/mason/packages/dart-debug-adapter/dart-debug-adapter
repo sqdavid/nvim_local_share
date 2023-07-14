@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+exec node "/Users/sqdavid/.local/share/nvim/mason/packages/dart-debug-adapter/extension/out/dist/debug.js" "$@"
